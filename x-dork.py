@@ -6,6 +6,7 @@ import threading
 import sqlite3
 import requests
 import signal
+import time
 from queue import Queue
 from urllib.parse import urlparse
 from pathlib import Path
@@ -41,7 +42,7 @@ def print_banner():
           //..\\
 =========((====))=======================
 //   \\\\   \\\\  //   \\\\
-      {COLORS['y']}xDork v1.0 - Machine Spirit Awakened!{COLORS['c']}
+{COLORS['y']}xDork v1.0 - Machine Spirit Awakened!{COLORS['c']}
             {COLORS['g']}by @cediegreyhat{COLORS['c']}
 ========================================
 {COLORS['rr']}""")
@@ -132,46 +133,36 @@ class Dorker:
                 dork = self.q.get()
                 log(f"Scanning dork: {dork}", "INFO")
                 found_any = False
-                for domain in self.domains:
-                    for start in range(0, 501, 10):
-                        url = f"https://www.bing.com/search?q={dork} site:{domain}&first={start}&FORM=PORE"
+                for start in range(0, 100, 30):  # DuckDuckGo paginates by 30
+                    results = self.duckduckgo_dork(dork, start)
+                    if not results:
+                        continue
+                    for found_url in results:
+                        clean_url = found_url
+                        if clean_url.startswith('http://'):
+                            clean_url = clean_url.replace('http://', '')
+                        elif clean_url.startswith('https://'):
+                            clean_url = clean_url.replace('https://', '')
+                        if clean_url.startswith('www.'):
+                            clean_url = clean_url.replace('www.', '')
+                        if any(x in clean_url for x in ['duckduckgo.com', 'go.microsoft.com', '.wordpress.', '.blogspot.']):
+                            continue
                         try:
-                            resp = requests.get(url, headers=self.header, timeout=10)
-                            finder = re.findall(
-                                r'<h2><a href="((?:https://|http://)[a-zA-Z0-9\-_.]+\.[a-zA-Z]{2,11}[^"\s>]*)',
-                                resp.text)
-                            if not finder:
-                                continue
-                            for found_url in finder:
-                                clean_url = found_url
-                                if clean_url.startswith('http://'):
-                                    clean_url = clean_url.replace('http://', '')
-                                elif clean_url.startswith('https://'):
-                                    clean_url = clean_url.replace('https://', '')
-                                if clean_url.startswith('www.'):
-                                    clean_url = clean_url.replace('www.', '')
-                                if any(x in clean_url for x in ['go.microsoft.com', '.wordpress.', '.blogspot.']):
-                                    continue
-                                try:
-                                    self.cur_execute("INSERT INTO dorker_db(url) VALUES(?)", (clean_url,))
-                                    msg = f"{clean_url} --> ADDED TO Database"
-                                    print(self.colors['c'] + '       [' + self.colors['y'] + '+' + self.colors['c'] + '] ' +
-                                          self.colors['y'] + clean_url + self.colors['g'] + ' --> ADDED TO Database' + self.colors['rr'])
-                                    log(msg, "SUCCESS")
-                                    self.results_count += 1
-                                    found_any = True
-                                except sqlite3.IntegrityError:
-                                    msg = f"{clean_url} --> Was in Database"
-                                    print(self.colors['c'] + '       [' + self.colors['y'] + '+' + colors['c'] + '] ' +
-                                          self.colors['y'] + clean_url + self.colors['r'] + ' --> Was in Database' + self.colors['rr'])
-                                    log(msg, "INFO")
-                                    found_any = True
-                        except Exception as e:
-                            log(f"[!] Request failed: {e}", "ERROR")
-                            print(self.colors['r'] + '[!] Request failed: ' + str(e) + self.colors['rr'])
-                        # Give the terminal a chance to update and avoid hammering
-                        import time
-                        time.sleep(0.1)
+                            self.cur_execute("INSERT INTO dorker_db(url) VALUES(?)", (clean_url,))
+                            msg = f"{clean_url} --> ADDED TO Database"
+                            print(self.colors['c'] + '       [' + self.colors['y'] + '+' + self.colors['c'] + '] ' +
+                                  self.colors['y'] + clean_url + self.colors['g'] + ' --> ADDED TO Database' + self.colors['rr'])
+                            log(msg, "SUCCESS")
+                            self.results_count += 1
+                            found_any = True
+                        except sqlite3.IntegrityError:
+                            msg = f"{clean_url} --> Was in Database"
+                            print(self.colors['c'] + '       [' + self.colors['y'] + '+' + self.colors['c'] + '] ' +
+                                  self.colors['y'] + clean_url + self.colors['r'] + ' --> Was in Database' + self.colors['rr'])
+                            log(msg, "INFO")
+                            found_any = True
+                    import time
+                    time.sleep(0.1)
                 if not found_any:
                     msg = f"No results found for dork: {dork}"
                     print(self.colors['y'] + f"[!] No results found for dork: {dork}" + self.colors['rr'])
@@ -180,6 +171,19 @@ class Dorker:
         except Exception as e:
             log(f"[!] Thread error: {e}", "ERROR")
             print(self.colors['r'] + '[!] Thread error: ' + str(e) + self.colors['rr'])
+
+    def duckduckgo_dork(self, dork, start=0, retries=3):
+        url = f"https://html.duckduckgo.com/html/?q={dork}&kl=us-en&s={start}"
+        for attempt in range(retries):
+            try:
+                resp = requests.get(url, headers=self.header, timeout=5)
+                finder = re.findall(r'<a rel="nofollow" class="result__a" href="(http[s]?://[^"]+)"', resp.text)
+                return finder
+            except Exception as e:
+                log(f"[!] DuckDuckGo request failed (attempt {attempt+1}): {e}", "ERROR")
+                print(self.colors['r'] + f'[!] DuckDuckGo request failed (attempt {attempt+1}): ' + str(e) + self.colors['rr'])
+                time.sleep(2)
+        return []
 
 class RowDatabase:
     def __init__(self):
@@ -229,7 +233,7 @@ class Main:
             print(self.colors['y'] + '        [1] ' + self.colors['c'] + ' Dork Scanner')
             print(self.colors['y'] + '        [2] ' + self.colors['c'] + ' Export Results')
             print(self.colors['y'] + '        [3] ' + self.colors['c'] + ' Clear Database')
-            print(self.colors['y'] + '        [4]' + self.colors['c'] + ' Exit')
+            print(self.colors['y'] + '        [4]' +  self.colors['c'] + '  Exit')
             choice = input('    @> ').strip()
             if choice == '1':
                 self.cls()

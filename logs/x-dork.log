@@ -2,3 +2,284 @@
 [2025-07-02 22:32:13] [INFO] Successfully Cleared DataBase!
 [2025-07-02 22:32:16] [WARNING] No URLs found in the database.
 [2025-07-02 22:32:19] [INFO] User exited the program.
+[2025-07-02 22:38:45] [INFO] xDork started.
+[2025-07-02 22:39:00] [INFO] Scanning dork: index.php?id=
+[2025-07-02 22:45:58] [INFO] xDork started.
+[2025-07-02 22:46:02] [INFO] User exited the program.
+[2025-07-02 22:46:15] [INFO] xDork started.
+[2025-07-02 22:46:23] [INFO] User exited the program.
+[2025-07-02 22:46:25] [INFO] xDork started.
+[2025-07-02 22:46:31] [INFO] User exited the program.
+[2025-07-02 22:46:34] [INFO] xDork started.
+[2025-07-02 22:46:43] [INFO] Scanning dork: index.php?id=
+[2025-07-02 22:49:37] [INFO] xDork started.
+[2025-07-02 22:49:51] [INFO] Scanning dork: index.php?id=
+[2025-07-02 22:50:29] [INFO] xDork started.
+[2025-07-02 22:50:33] [INFO] User exited the program.
+[2025-07-02 22:54:53] [INFO] xDork started.
+[2025-07-02 22:54:57] [INFO] Scanning dork: index.php?id=
+[2025-07-02 22:54:57] [ERROR] [!] Thread error: 'Dorker' object has no attribute 'duckduckgo_dork'
+[2025-07-02 22:55:48] [INFO] xDork started.
+[2025-07-02 22:55:51] [INFO] Scanning dork: index.php?id=
+[2025-07-02 22:55:52] [WARNING] No results found for dork: index.php?id=
+[2025-07-02 22:55:52] [INFO] Dorking complete! 0 unique URLs added.
+[2025-07-02 22:57:00] [INFO] Scanning dork: affiliates.php?id=
+[2025-07-02 22:57:00] [INFO] Scanning dork: beitrag_D.php?id=
+[2025-07-02 22:57:00] [INFO] Scanning dork: BookDetails.php?ID=
+[2025-07-02 22:57:00] [INFO] Scanning dork: board/view.php?no=
+[2025-07-02 22:57:00] [INFO] Scanning dork: adminEditProductFields.php?intProdID=
+[2025-07-02 22:57:00] [INFO] Scanning dork: basket.php?id=
+[2025-07-02 22:57:00] [INFO] Scanning dork: ?action=
+[2025-07-02 22:57:00] [INFO] Scanning dork: addToCart.php?idProduct=
+[2025-07-02 22:57:00] [INFO] Scanning dork: advSearch_h.php?idCategory=
+[2025-07-02 22:57:00] [INFO] Scanning dork: article.php?id=
+[2025-07-02 22:57:00] [INFO] Scanning dork: bayer/dtnews.php?id=
+[2025-07-02 22:57:00] [INFO] Scanning dork: bbs/view.php?no=
+[2025-07-02 22:57:00] [INFO] Scanning dork: .php?module=
+[2025-07-02 22:57:00] [INFO] Scanning dork: ?pid=
+[2025-07-02 22:57:00] [INFO] Scanning dork: ViewProduct.php?misc=
+[2025-07-02 22:57:00] [INFO] Scanning dork: add_cart.php?num=
+[2025-07-02 22:57:00] [INFO] Scanning dork: abroad/page.php?cid=
+[2025-07-02 22:57:00] [INFO] Scanning dork: addcart.php?
+[2025-07-02 22:57:00] [INFO] Scanning dork: affiliate-agreement.cfm?storeid=
+[2025-07-02 22:57:00] [INFO] Scanning dork: aktuelles/meldungen-detail.php?id=
+[2025-07-02 22:57:00] [INFO] Scanning dork: book.php?id=
+[2025-07-02 22:57:00] [INFO] Scanning dork: ?page=
+[2025-07-02 22:57:00] [INFO] Scanning dork: Browse_Item_Details.php?Store_Id=
+[2025-07-02 22:57:00] [INFO] Scanning dork: Book.php?bookID=
+[2025-07-02 22:57:00] [INFO] Scanning dork: acclogin.php?cartID=
+[2025-07-02 22:57:00] [INFO] Scanning dork: book_list.php?bookid=
+[2025-07-02 22:57:00] [INFO] Scanning dork: accinfo.php?cartId=
+[2025-07-02 22:57:00] [INFO] Scanning dork: affiliate.php?ID=
+[2025-07-02 22:57:00] [INFO] Scanning dork: ancillary.php?ID=
+[2025-07-02 22:57:00] [INFO] Scanning dork: bookmark/mybook/bookmark.php?bookPageNo=
+[2025-07-02 22:57:00] [INFO] Scanning dork: ?search=
+[2025-07-02 22:57:00] [INFO] Scanning dork: WsPages.php?ID=noticiasDetalle.php?xid=
+[2025-07-02 22:57:00] [INFO] Scanning dork: StoreRedirect.php?ID=
+[2025-07-02 22:57:00] [INFO] Scanning dork: about.php?cartID=
+[2025-07-02 22:57:00] [INFO] Scanning dork: add-to-cart.php?ID=
+[2025-07-02 22:57:00] [INFO] Scanning dork: boardView.php?bbs=
+[2025-07-02 22:57:00] [INFO] Scanning dork: addtomylist.php?ProdId=
+[2025-07-02 22:57:00] [INFO] Scanning dork: bbs/bbsView.php?id=
+[2025-07-02 22:57:00] [INFO] Scanning dork: beitrag_F.php?id=
+[2025-07-02 22:57:00] [INFO] Scanning dork: addItem.php
+tml?table=
+[2025-07-02 22:57:00] [INFO] Scanning dork: book/bookcover.php?bookid=
+[2025-07-02 22:57:00] [INFO] Scanning dork: add.php?bookid=
+D=
+[2025-07-02 22:57:00] [INFO] Scanning dork: book_detail.php?BookID=
+[2025-07-02 22:57:00] [INFO] Scanning dork: bookpage.php?id=
+[2025-07-02 22:57:00] [INFO] Scanning dork: archive/get.php?message_id=
+[2025-07-02 22:57:00] [INFO] Scanning dork: archive.php?id=
+[2025-07-02 22:57:00] [ERROR] [!] DuckDuckGo request failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[2025-07-02 22:57:00] [ERROR] [!] DuckDuckGo request failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[2025-07-02 22:57:00] [ERROR] [!] DuckDuckGo request failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[2025-07-02 22:57:00] [ERROR] [!] DuckDuckGo request failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[2025-07-02 22:57:00] [ERROR] [!] DuckDuckGo request failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=aktuelles/meldungen-detail.php?id=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0A850>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=archive.php?id=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0BC50>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=acclogin.php?cartID=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9CF50>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=beitrag_F.php?id=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9D6D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=book_view.php?bookid=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9D950>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=ViewProduct.php?misc=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9CE10>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=abroad/page.php?cid=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9C050>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=book/bookcover.php?bookid=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9E5D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=advSearch_h.php?idCategory=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9DD10>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=bbs/bbsView.php?id=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9D310>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=addtomylist.php?ProdId=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9E0D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=add.php?bookid=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0BD90>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Read timed out. (read timeout=10)
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=bookpage.php?id=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0B610>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=ancillary.php?ID=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0A350>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Read timed out. (read timeout=10)
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=book.php?ID=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9C410>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=adminEditProductFields.php?intProdID=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9CCD0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Read timed out. (read timeout=10)
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=StoreRedirect.php?ID=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0B9D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Read timed out. (read timeout=10)
+l/?q=accinfo.php?cartId=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9E490>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=book.php?id=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9D090>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Read timed out. (read timeout=10)
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Read timed out. (read timeout=10)
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Read timed out. (read timeout=10)
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=BookDetails.php?ID=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9E350>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Read timed out. (read timeout=10)
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=archive/get.php?message_id=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0B890>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Read timed out. (read timeout=10)
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Read timed out. (read timeout=10)
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=bayer/dtnews.php?id=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9DE50>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Read timed out. (read timeout=10)
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=add_cart.php?num=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0B750>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=addcart.php?&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9D450>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=Browse_Item_Details.php?Store_Id=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9D810>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=affiliate.php?ID=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9C690>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=beitrag_D.php?id=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0BED0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=bookmark/mybook/bookmark.php?bookPageNo=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9DBD0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=boardView.php?bbs=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9C2D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=board/view.php?no=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9E710>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=board/board.html?table=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9C7D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=bbs/view.php?no=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9E850>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=.php?module=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9CA50>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=affiliate-agreement.cfm?storeid=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9DA90>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=?search=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9E990>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=?action=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9EC10>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=?page=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9F110>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:10] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=addItem.php&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9F390>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=aktuelles/meldungen-detail.php?id=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9F610>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [WARNING] No results found for dork: aktuelles/meldungen-detail.php?id=
+[2025-07-02 22:57:20] [INFO] Scanning dork: books/book.php?proj_nr=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=archive.php?id=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9F890>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [WARNING] No results found for dork: archive.php?id=
+[2025-07-02 22:57:20] [INFO] Scanning dork: browse.php?catid=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=acclogin.php?cartID=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9FD90>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [WARNING] No results found for dork: acclogin.php?cartID=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=book_view.php?bookid=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9CF50>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [INFO] Scanning dork: browse_item_details.php
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=beitrag_F.php?id=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0BC50>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [WARNING] No results found for dork: book_view.php?bookid=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: beitrag_F.php?id=
+[2025-07-02 22:57:20] [INFO] Scanning dork: buy.php?
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=abroad/page.php?cid=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9F750>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [INFO] Scanning dork: buy.php?bookid=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=ViewProduct.php?misc=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9F4D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=addtomylist.php?ProdId=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9EFD0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [WARNING] No results found for dork: abroad/page.php?cid=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=book/bookcover.php?bookid=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9C910>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [INFO] Scanning dork: bycategory.php?id=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=bbs/bbsView.php?id=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9ED50>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=advSearch_h.php?idCategory=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9EAD0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=add.php?bookid=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9D590>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [WARNING] No results found for dork: ViewProduct.php?misc=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: addtomylist.php?ProdId=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=addToCart.php?idProduct=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9E210>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [INFO] Scanning dork: cardinfo.php?card=
+[2025-07-02 22:57:20] [INFO] Scanning dork: cart.php?action=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: bbs/bbsView.php?id=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: book/bookcover.php?bookid=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=bookpage.php?id=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D65BB4190>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [INFO] Scanning dork: cart.php?cart_id=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=ancillary.php?ID=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D65BB42D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [INFO] Scanning dork: catalog/main.php?cat_id=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: add.php?bookid=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: bookpage.php?id=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: addToCart.php?idProduct=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: advSearch_h.php?idCategory=
+[2025-07-02 22:57:20] [INFO] Scanning dork: catalog/product.php?cat_id=
+[2025-07-02 22:57:20] [INFO] Scanning dork: catalog/product.php?pid=
+[2025-07-02 22:57:20] [INFO] Scanning dork: categories.php?cat=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: ancillary.php?ID=
+[2025-07-02 22:57:20] [INFO] Scanning dork: category.php?catid=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=article.php?id=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D65BB4550>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [INFO] Scanning dork: category.php?id=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: article.php?id=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=book.php?ID=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D65BB4A50>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=book_detail.php?BookID=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D65BB4CD0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=adminEditProductFields.php?intProdID=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D65BB4B90>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [INFO] Scanning dork: cats.php?cat=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: book_detail.php?BookID=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: adminEditProductFields.php?intProdID=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: book.php?ID=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=StoreRedirect.php?ID=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0B9D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [INFO] Scanning dork: cbmer/congres/page.php?LAN=
+[2025-07-02 22:57:20] [INFO] Scanning dork: cloudbank/detail.php?ID=
+[2025-07-02 22:57:20] [INFO] Scanning dork: community/calendar-event-fr.php?id=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=accinfo.php?cartId=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0A350>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [WARNING] No results found for dork: StoreRedirect.php?ID=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=add-to-cart.php?ID=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0B610>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=book.php?id=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0BD90>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=Book.php?bookID=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0A850>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=book_list.php?bookid=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0A490>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [INFO] Scanning dork: content.php?ID=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: accinfo.php?cartId=
+[2025-07-02 22:57:20] [INFO] Scanning dork: content.php?PID=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=affiliates.php?id=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9C410>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [WARNING] No results found for dork: Book.php?bookID=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: add-to-cart.php?ID=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=BookDetails.php?ID=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9C190>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [WARNING] No results found for dork: book_list.php?bookid=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: book.php?id=
+[2025-07-02 22:57:20] [INFO] Scanning dork: content.php?id=
+[2025-07-02 22:57:20] [INFO] Scanning dork: content.php?p=
+[2025-07-02 22:57:20] [INFO] Scanning dork: content/detail.php?id=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=basket.php?id=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9C550>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [INFO] Scanning dork: content/index.php?id=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: affiliates.php?id=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: BookDetails.php?ID=
+[2025-07-02 22:57:20] [INFO] Scanning dork: county-facts/diary/vcsgen.php?id=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: basket.php?id=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=archive/get.php?message_id=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9D6D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [INFO] Scanning dork: cryolab/content.php?cid=
+[2025-07-02 22:57:20] [INFO] Scanning dork: customer/board.htm?mode=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=WsPages.php?ID=noticiasDetalle.php?xid=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9FB10>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=about.php?cartID=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D65BB4E10>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [WARNING] No results found for dork: archive/get.php?message_id=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=WsAncillary.php?ID=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D65BB4410>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [INFO] Scanning dork: de/content.php?page_id=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: WsPages.php?ID=noticiasDetalle.php?xid=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: about.php?cartID=
+ol(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=bayer/dtnews.php?id=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D65BB5450>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [INFO] Scanning dork: default.php?cPath=
+[2025-07-02 22:57:20] [INFO] Scanning dork: detail.php?id=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: WsAncillary.php?ID=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=Browse_Item_Details.php?Store_Id=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D65BB56D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [WARNING] No results found for dork: bayer/dtnews.php?id=
+[2025-07-02 22:57:20] [INFO] Scanning dork: detail.php?prodID=
+[2025-07-02 22:57:20] [INFO] Scanning dork: detail.php?prodid=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=add_cart.php?num=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9DE50>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [WARNING] No results found for dork: Browse_Item_Details.php?Store_Id=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=addcart.php?&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9DD10>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [WARNING] No results found for dork: add_cart.php?num=
+[2025-07-02 22:57:20] [INFO] Scanning dork: details.php?ProdID=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=affiliate.php?ID=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9E0D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=beitrag_D.php?id=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9CB90>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [WARNING] No results found for dork: addcart.php?
+[2025-07-02 22:57:20] [INFO] Scanning dork: details.php?prodId=
+[2025-07-02 22:57:20] [INFO] Scanning dork: docDetail.aspx?chnum=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=boardView.php?bbs=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9F9D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [WARNING] No results found for dork: affiliate.php?ID=
+ol(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=board/view.php?no=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9EE90>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [INFO] Scanning dork: e_board/modifyform.html?code=
+nPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=affiliate-agreement.cfm?storeid=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9DF90>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [WARNING] No results found for dork: boardView.php?bbs=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=?search=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64B9CCD0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=bookmark/mybook/bookmark.php?bookPageNo=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0B750>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [WARNING] No results found for dork: board/view.php?no=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=board/board.html?table=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0BB10>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=.php?module=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0B890>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [INFO] Scanning dork: els_/product/product.php?id=
+[2025-07-02 22:57:20] [INFO] Scanning dork: en/publications.php?id=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=bbs/view.php?no=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0A990>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [WARNING] No results found for dork: beitrag_D.php?id=
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=?action=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0AC10>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=?page=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D64A0A210>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=?pid=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D65BB4690>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=addItem.php&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D65BB47D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:57:20] [INFO] Scanning dork: eng/rgboard/view.php?&bbs_id=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: ?search=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: affiliate-agreement.cfm?storeid=
+[2025-07-02 22:57:20] [INFO] Scanning dork: eng_board/view.php?T****=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: ?page=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: bbs/view.php?no=
+[2025-07-02 22:57:20] [INFO] Scanning dork: english/fonction/print.php?id=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: .php?module=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: board/board.html?table=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: ?pid=
+[2025-07-02 22:57:20] [INFO] Scanning dork: english/publicproducts.php?groupid=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: bookmark/mybook/bookmark.php?bookPageNo=
+[2025-07-02 22:57:20] [INFO] Scanning dork: events/detail.php?ID=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: addItem.php
+[2025-07-02 22:57:20] [INFO] Scanning dork: forum/profile.php?id=
+[2025-07-02 22:57:20] [INFO] Scanning dork: gallery.php?id=
+[2025-07-02 22:57:20] [INFO] Scanning dork: gallerysort.php?iid=
+[2025-07-02 22:57:20] [WARNING] No results found for dork: ?action=
+[2025-07-02 22:57:20] [INFO] Scanning dork: garden_equipment/Fruit-Cage/product.php?pr=
+[2025-07-02 22:57:20] [INFO] Scanning dork: general.php?id=
+[2025-07-02 22:57:20] [INFO] Scanning dork: gig.php?id=
+[2025-07-02 22:58:08] [INFO] xDork started.
+[2025-07-02 22:58:13] [INFO] Scanning dork: .php?module=
+[2025-07-02 22:58:23] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=.php?module=&kl=us-en&s=0 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001C0C7FABCB0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:58:33] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=.php?module=&kl=us-en&s=30 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001C0C7F9BD90>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:58:43] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=.php?module=&kl=us-en&s=60 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001C0C80B0690>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:58:53] [ERROR] [!] DuckDuckGo request failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=.php?module=&kl=us-en&s=90 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001C0C80B0910>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+[2025-07-02 22:58:53] [WARNING] No results found for dork: .php?module=
+[2025-07-02 22:58:53] [INFO] Dorking complete! 0 unique URLs added.
