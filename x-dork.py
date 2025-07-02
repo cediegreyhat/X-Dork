@@ -42,7 +42,7 @@ def print_banner():
           //..\\
 =========((====))=======================
 //   \\\\   \\\\  //   \\\\
-{COLORS['y']}xDork v1.0 - Machine Spirit Awakened!{COLORS['c']}
+{COLORS['y']}xDork v0.0.2 - Machine Spirit Awakened!{COLORS['c']}
             {COLORS['g']}by @cediegreyhat{COLORS['c']}
 ========================================
 {COLORS['rr']}""")
