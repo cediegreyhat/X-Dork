@@ -63,7 +63,6 @@ xDork is a multi-threaded, SQLite-backed search engine dorker. Feed it a list of
 
 ---
 
-
 ## Menu Screen
 
 ```
